@@ -19,5 +19,10 @@ An AI-powered tutor for school & tech learning with:
 - Attempt Quiz & View Score
 - Favourite important notes
 
+## 📸 Screenshots
+
+![Screenshot 180](images/Screenshot%20(180).png)
+![Screenshot 181](images/Screenshot%20(181).png)
+![Screenshot 182](images/Screenshot%20(182).png)
 
 
